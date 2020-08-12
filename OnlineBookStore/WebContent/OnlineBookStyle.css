@@ -1,0 +1,73 @@
+@charset "ISO-8859-1";
+
+body{
+	background-image:url("https://blog.hubspot.com/hubfs/books-every-aspiring-ceo-should-read.jpg");
+	background-size: cover;
+}
+.class2{
+	font-family: 'Oswald', sans-serif;
+}
+
+
+.class1{
+	
+	   padding-top: 25%;
+	   padding-bottom: 40px;
+	   font-size : 170%;
+	   font-family: 'Lemonada';	
+	
+}
+
+.class3{
+	padding-top: 15%;
+	
+}
+
+.class4{
+	margin-left: 8%;
+}
+.class5{
+	margin-left: 3%;
+}
+.class6{
+	margin-left: 15%;
+}
+.class7{
+	margin-left: 2%;
+}
+.class8{
+	margin-left: 15%;
+}
+.class9{
+	margin-left: 14%;
+}
+.class10{
+	margin-left: 13%;
+}
+.class11{
+	margin-left: 11%;
+}
+.class12{
+	margin-left: 17%;
+}
+.class13{
+	margin-left: 16%;
+}
+.class14{
+	margin-left: 12%;
+}
+.class15{
+	margin-left: 4%;
+}
+.class16{
+	margin-left: 6%;
+}
+.class17{
+	margin-left: 6.5%;
+}
+.class18{
+	colour : #4CAF50;
+}
+
+
+
